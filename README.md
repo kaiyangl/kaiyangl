@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Front End Developer at [Flip](https://www.getflip.com.au/). Open to wacky ideas :stuck_out_tongue_winking_eye:
+Front End Developer at [Flip](https://www.getflip.com.au/). Ex Deloitte Digital. Open to wacky ideas :stuck_out_tongue_winking_eye:
 
 <!--
 **kaiyangl/kaiyangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
